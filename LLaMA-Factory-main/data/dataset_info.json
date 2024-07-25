@@ -7,6 +7,14 @@
       "response": "output"
     }
   },
+  "NL2Speech": {
+    "file_name": "NL2Speech.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },
